@@ -1,10 +1,10 @@
 {
   "manifest_version": 3,
-  "name":"machinefeelings",
+  "name":"MachineEmotion",
   "description": "desc",
   "version": "0.0.1",
   "action": {
-    "default_popup": " .html",
+    "default_popup": "index.html",
     "default_title": "Open"
   },
   "permissions": ["scripting"],
